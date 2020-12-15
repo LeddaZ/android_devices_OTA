@@ -1,5 +1,12 @@
 # Changelog
 
+## 20201215
+- Synced with latest LineageOS 17.1 source code
+- December 5, 2020 security patches
+- Addded my changelog link in the Updater (3-dot menu > Show changelog)
+- Re-added WireGuard support in kernel
+- Other minor fixes and updates
+
 ## 20201113
 - Synced with latest LineageOS 17.1 sources
 - November security patches
