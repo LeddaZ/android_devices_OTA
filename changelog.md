@@ -1,5 +1,15 @@
 # Changelog
 
+## 20210117
+
+- Synced with latest LineageOS 17.1 source code
+- January security patches
+- Switched to redfin Jan fp (if SafetyNet still doesn't pass flash [this](https://github.com/kdrag0n/safetynet-fix/releases) Magisk module)
+- Updated OTA URL (Updater will work again from this build)
+- Enabled fluence for voice recording (fixes Google Recorder)
+- Added missing camera props from stock MIUI
+- Other minor fixes and updates
+
 ## 20201215
 - Synced with latest LineageOS 17.1 source code
 - December 5, 2020 security patches

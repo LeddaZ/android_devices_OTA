@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1608019582,
-      "filename": "lineage-17.1-20201215-UNOFFICIAL-curtana.zip",
-      "id": "cf650317e5ceb83b1bd2a591e2ae233b",
+      "datetime": 1610859401,
+      "filename": "lineage-17.1-20210117-UNOFFICIAL-curtana.zip",
+      "id": "30abcb807f92e14b7caf738af397cb22",
       "romtype": "unofficial",
-      "size": 971898880,
-      "url": "https://sourceforge.net/projects/leddaz/files/curtana-unified/lineage-17.1/lineage-17.1-20201215-UNOFFICIAL-curtana.zip/download",
+      "size": 971857228,
+      "url": "https://sourceforge.net/projects/leddaz/files/curtana-unified/lineage-17.1/lineage-17.1-20210117-UNOFFICIAL-curtana.zip/download",
       "version": "17.1"
     }
   ]
