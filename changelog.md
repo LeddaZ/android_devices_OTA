@@ -1,5 +1,12 @@
 # Changelog
 
+## 20210210
+- Synced with latest LineageOS 17.1 source code
+- February security patches
+- Switched to redfin Feb fp
+- Added support for Japanese curtana models
+- Other minor fixes and updates
+
 ## 20210117
 
 - Synced with latest LineageOS 17.1 source code
