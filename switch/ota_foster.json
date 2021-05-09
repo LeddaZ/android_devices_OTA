@@ -1,14 +1,13 @@
 {
-    "response": [
-      {
-        "datetime": 1612983970,
-        "filename": "lineage-17.1-20210210-UNOFFICIAL-curtana.zip",
-        "id": "5eb9c6830d763df65ac963d9bc719acd",
-        "romtype": "unofficial",
-        "size": 972832395,
-        "url": "https://sourceforge.net/projects/leddaz/files/curtana-unified/lineage-17.1/lineage-17.1-20210210-UNOFFICIAL-curtana.zip/download",
-        "version": "17.1"
-      }
-    ]
-  }
-  
+  "response": [
+    {
+      "datetime": 1620591456,
+      "filename": "lineage-17.1-20210509-UNOFFICIAL-foster-signed.zip",
+      "id": "f05e35916046967b4e6013dcf4e84988",
+      "romtype": "unofficial",
+      "size": 550244352,
+      "url": "https://sourceforge.net/projects/leddaz/files/lineage-switch/lineage-17.1/atv/lineage-17.1-20210509-UNOFFICIAL-foster-signed.zip/download",
+      "version": "17.1"
+    }
+  ]
+}
